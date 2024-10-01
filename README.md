@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Emmanuel
 
 # 💫 About Me:
-I am a Frontend Software Engineer with experience in JavaScript, React.js, and NextJs. I am passionate about problem-solving and delivering scalable solutions. I am eager to expand my skills by continuous learning and open to collaboration. I have interest in server side tools like Node JS and other DB
+I am a Software Engineer with experience in JavaScript, React.js, and NextJs. I am passionate about problem-solving and delivering scalable solutions. I am eager to expand my skills by continuous learning and open to collaboration. I have interest in server side tools like Node.js and Databases
 
 
 ## 🌐 Let's connect on social media:
