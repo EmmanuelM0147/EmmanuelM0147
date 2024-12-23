@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Emmanuel
 
 # 💫 About Me:
-I am a Software Engineer with JavaScript experience, passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering React.js for client-side work, Node.js for server-side development, and exploring databases within this ecosystem.
+I am a Software Engineer with JavaScript experience, passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering React.js and Next.js for client-side development. Node.js for server-side actionable solution, and exploring databases within this ecosystem.
 
 
 ## 🌐 Let's connect on social media:
