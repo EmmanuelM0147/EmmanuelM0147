@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Emmanuel
 
 # 💫 About Me:
-PROBLEM SOLVER | PRAGMATIC WIZARD LIKE YODA 
+PROBLEM SOLVER | PRAGMATIC WIZARD LIKE YODA 🧙🏽‍♂️
 
 I am a Software Engineer with JavaScript experience, passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering React.js and Next.js for client-side development. Node.js for server-side actionable solution, and exploring databases within this ecosystem. Also, I naturally lean toward innovative, unconventional, and highly analytical intelligence. 💡😎
 
