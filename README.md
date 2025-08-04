@@ -9,9 +9,9 @@ I am a Software Engineer with experience in JavaScript, Python, and PHP. I am pa
 🌍 **Current Focus:**
 
 * 🔐 Building secure, scalable backend systems
-* 🤖 Integrating AI into real-world platforms (e.g., Gardenia AI for smart agriculture)
-* 🛠 Automating business workflows (e.g., WhatsApp & Instagram integrations)
-* 🌱 Empowering startups through Carlora Strategic Innovation
+* 🤖 Integrating AI into real-world platforms
+* 🛠 Automating business workflows
+* 🌱 Empowering startups through Strategic Business Innovation
 
 📈 **Let’s Build Something That Matters**
 Open to collaboration, freelance contracts, or full-time roles. Let’s create impact.
