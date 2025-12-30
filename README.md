@@ -4,7 +4,7 @@
 # About Me:
 PRAGMATIC WIZARD | PROBLEM-SOLVER
 
-Software Engineer with experience in Typescript, JavaScript, Python, and PHP. I am passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering tools for client-side development and server-side actionable solutions, exploring databases within this ecosystem. Also, I naturally lean toward innovative, unconventional, and highly analytical intelligence.
+Software Engineer (backend-focused) professional with experience using toolings; Typescript, JavaScript, Python, and PHP. I am passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering tools for client-side development and server-side actionable solutions, exploring databases within this ecosystem. Also, I naturally lean toward innovative, unconventional, and highly analytical intelligence.
 
  **Current Focus:**
 
