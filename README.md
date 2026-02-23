@@ -3,8 +3,15 @@
 
 # About Me:
 PRAGMATIC WIZARD | PROBLEM-SOLVER
+Results-driven Software Engineer transitioning into AI Engineering, specializing in building scalable, production-grade systems that integrate AI and machine learning for real-world impact.
 
-Software Engineer (backend-focused) professional with experience using toolings; Typescript, JavaScript, Python, and PHP. I am passionate about problem-solving and delivering scalable solutions. I'm eager to learn continuously and enjoy collaborating with others. Currently, I'm focused on mastering tools for client-side development and server-side actionable solutions, exploring databases within this ecosystem. Also, I naturally lean toward innovative, unconventional, and highly analytical intelligence.
+With years in backend development (TypeScript/Node.js, Python, PostgreSQL, Kafka, Redis), I've architected secure APIs for platforms—improving response times by 40%, enforcing PCI DSS/GDPR compliance, and reducing costs via event-driven architectures. My foundation in DevOps (Docker, Kubernetes, AWS, CI/CD) and security (JWT/OAuth, Bcrypt, Zod) equips me to deploy reliable ML models and end-to-end pipelines.
+
+Currently upskilling in NextGen Data Analytics & Data Science with AI, gaining hands-on expertise in GenAI, Scikit-Learn, OpenAI, MLflow, MLOps, Big Data pipelines, Tableau/Power BI visualization, and 200+ SQL/Python challenges. Combined with my ALX AI Augmented Development certification, I'm focused on turning data into actionable insights via intelligent automation and predictive systems.
+
+Excited about roles in AI/ML Engineering, especially in remote global teams. Let's connect if you're building AI-driven products. I'd love to discuss how my backend + emerging AI skills can contribute!
+
+#AI #MachineLearning #MLOps #Python #Nodejs #DataScience
 
  **Current Focus:**
 
