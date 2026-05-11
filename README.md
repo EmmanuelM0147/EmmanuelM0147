@@ -10,7 +10,7 @@ Currently upskilling in AI/Machine Learning, gaining hands-on expertise in GenAI
 
 Excited about roles in Software Engineering, especially in remote global teams. Let's connect if you're building AI-driven products. I'd love to discuss how my backend + AI skills can contribute!
 
-#Nodejs #AI #ML #MLOps #Python
+#TypeScript #Nodejs #Python #AI #ML #MLOps
 
  **Current Focus:**
 
