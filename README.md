@@ -4,7 +4,7 @@
 # About Me:
 Results-driven Software Engineer, specializing in building scalable, production-grade systems that integrate AI and machine learning for real-world impact.
 
-With years in backend development (TypeScript, Node.js, Python, PostgreSQL), I've architected secure APIs for platforms—improving response times by 40%, enforcing PCI DSS/GDPR compliance, and reducing costs via event-driven architectures. My foundation in DevOps (Docker, AWS, CI/CD) and security (JWT/OAuth, Bcrypt, Zod) equips me to deploy reliable ML models and end-to-end pipelines.
+With years in backend development (TypeScript, Node.js, Python), I've architected secure APIs for platforms—improving response times by 40%, enforcing PCI DSS/GDPR compliance, and reducing costs via event-driven architectures. My foundation in DevOps (Docker, AWS, CI/CD) and security (JWT/OAuth, Bcrypt, Zod) equips me to deploy reliable ML models and end-to-end pipelines.
 
 Currently upskilling in AI/Machine Learning, gaining hands-on expertise in GenAI, Scikit-Learn, OpenAI, MLflow, MLOps, Big Data pipelines. I'm focused on turning data into actionable insights via intelligent automation and predictive systems.
 
