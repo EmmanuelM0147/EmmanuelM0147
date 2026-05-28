@@ -22,6 +22,7 @@ Open to remote backend and AI engineering roles.
 ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![NestJS](https://shields.io) ![GraphQL](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![Prisma](https://shields.io) ![Postgres](https://shields.io) ![MongoDB](https://shields.io) ![Redis](https://shields.io) ![JWT](https://shields.io) ![AWS](https://shields.io) ![Google Cloud](https://shields.io) ![Render](https://shields.io) ![Docker](https://shields.io) ![GitHub Actions](https://shields.io) ![Bash Script](https://shields.io) ![PowerShell](https://shields.io) ![LangChain](https://shields.io) ![LangGraph](https://shields.io) ![HuggingFace](https://shields.io) ![PyTorch](https://shields.io) ![TensorFlow](https://shields.io) ![scikit-learn](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Matplotlib](https://shields.io) ![Kaggle](https://shields.io) ![Pytest](https://shields.io) ![Playwright](https://shields.io) ![cypress](https://shields.io) ![React](https://shields.io) ![TailwindCSS](https://shields.io) ![EJS](https://shields.io) ![Postman](https://shields.io) ![Jira](https://shields.io)
 
 
+
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
