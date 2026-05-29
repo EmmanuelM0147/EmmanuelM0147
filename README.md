@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Backend and AI Engineer focused on architecting scalable distributed systems and bringing complex machine learning models out of prototypes into stable production environments. My expertise bridges high-throughput web architecture and intelligent AI orchestrations, handling everything from heavy data engineering pipelines and vector database syncs to autonomous agent lifecycles.
+I am a Backend Engineer focused on architecting scalable distributed systems and bringing complex machine learning models out of prototypes into stable production environments. My expertise bridges high-throughput web architecture and intelligent AI orchestrations, handling everything from heavy data engineering pipelines and vector database syncs to autonomous agent lifecycles.
 
 Currently, I lead backend engineering at Keyrium, where I own the system architecture, CI/CD automation, and cloud infrastructure for multiple high-concurrency enterprise APIs serving cross-platform applications.
 
