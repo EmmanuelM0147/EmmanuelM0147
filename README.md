@@ -12,7 +12,7 @@ Currently at **Keyrium**, I lead development of backend systems for high-concurr
 
 **Stack:** Node.js · TypeScript · Python · PostgreSQL · AWS · RAG · Agentic AI
 
-**Let's connect:** [okeowoemmanuelm@gmail.com](mailto:okeowoemmanuelm@gmail.com) · [Portfolio](https://epicnode.hostless.site) · [LinkedIn](https://www.linkedin.com/in/okeowoemmanuelm/)
+**Let's connect:** [okeowoemmanuelm@gmail.com](mailto:okeowoemmanuelm@gmail.com) · [Portfolio](https://epicnode.hostless.site)
 
 
 
