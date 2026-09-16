@@ -5,7 +5,7 @@
 I specialize in building production systems building production systems, from high-concurrency fintech APIs to applied LLM integration, RAG pipelines, and agent workflows. Currently, I lead development for platforms…Open to backend, and applied AI engineering roles.
 
 ##  Let's connect on social media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okeowoemmanuelm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Trippie_1800) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okeowoemmanuelm) 
 
 #  Tech Stack/Tools:
 
