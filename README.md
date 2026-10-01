@@ -1,4 +1,4 @@
-### Hi there 👋 I am Emmanuel
+### Hi there👋 I'm Emmanuel
 
 ## About Me
 I specialize in building production systems, from high-concurrency fintech APIs to applied LLM integration, RAG pipelines, and agent workflows. Currently, I lead development for platforms at Keyrium…Open to backend, and AI engineering roles.
