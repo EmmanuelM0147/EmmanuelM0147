@@ -3,6 +3,11 @@
 ## About Me
 Lead Backend Engineer building production fintech APIs and LLM-powered systems (RAG pipelines, agent workflows). Currently leading platform development at Keyrium Consulting. Open to senior backend and AI engineering roles (remote).
 
+### What I do well
+- **Backend & fintech systems:** high-concurrency APIs, ledgers, transactional workflows
+- **Applied AI:** RAG pipelines, agentic apps with LangChain/LangGraph, vector search with Qdrant
+- **Production engineering:** Docker, AWS, CI/CD with GitHub Actions, testing with Pytest
+
 
 ##  Let's connect on social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okeowoemmanuelm) 
