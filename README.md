@@ -1,7 +1,8 @@
-### Hi there👋 I'm Emmanuel
+### Hi, I'm Emmanuel👋
 
 ## About Me
-I specialize in building production systems, from high-concurrency fintech APIs to applied LLM integration, RAG pipelines, and agent workflows. Currently, I lead development for platforms at Keyrium…Open to senior backend, and AI engineering roles.
+Lead Backend Engineer building production fintech APIs and LLM-powered systems (RAG pipelines, agent workflows). Currently leading platform development at Keyrium Consulting. Open to senior backend and AI engineering roles (remote).
+
 
 ##  Let's connect on social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okeowoemmanuelm) 
