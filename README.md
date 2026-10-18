@@ -5,8 +5,8 @@ Software Engineer building production fintech APIs and LLM-powered systems (RAG 
 
 ### What I do well
 - **Backend & fintech systems:** high-concurrency APIs, ledgers, transactional workflows
-- **Applied AI:** RAG pipelines, agentic apps with LangChain/LangGraph, vector search with Qdrant
 - **Production engineering:** Docker, AWS, CI/CD with GitHub Actions, testing with Pytest
+- **Applied AI:** RAG pipelines, agentic apps with LangChain/LangGraph, vector search with Qdrant/Pinecone
 
 
 #  Tech Stack/Tools:
