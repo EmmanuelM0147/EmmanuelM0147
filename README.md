@@ -1,7 +1,9 @@
 ### Hi, I'm Emmanuel👋
 
 ## About Me
-AI Engineer building production fintech APIs and LLM-powered systems (RAG pipelines, agent workflows). Currently leading platform development at Keyrium Consulting. Open to senior backend and AI engineering roles.
+Software Engineer Specialized in AI & Data systems, building production fintech APIs and LLM-powered systems (RAG pipelines, agent workflows) with Python, Node.js, TypeScript, React native, Flutter, PostgreSQL and other technologies. Currently leading platform development at Keyrium Consulting. Open to senior backend and AI engineering roles.
+
+
 
 ### What I do well
 - **Backend & fintech systems:** high-concurrency APIs, ledgers, transactional workflows
