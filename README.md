@@ -1,9 +1,7 @@
 ### Hi, I'm Emmanuel👋
 
 ## About Me
-Software Engineer Specialized in AI & Data systems: I build production fintech APIs and LLM-powered systems Including RAG pipelines, agent workflows. Currently leading platform development at Keyrium. Open to senior backend and AI engineering roles.
-
-Stack: Python · TypeScript · Node.js · NestJS · PostgreSQL · Redis · Docker · AWS · LangChain · React Native · Flutter
+Software Engineer specialized in AI & Data systems with experience building production fintech APIs and LLM-powered systems Including RAG pipelines, and agent workflows. I lead an engineering organization building full-stack products across diverse domains: Backend APIs, Mobile apps, and cloud platforms. I manage the complete engineering lifecycle, architectural reviews and specifications, quarterly budget management, performance management, code reviews, and strategic planning with C-level executives on pricing, cost optimization, and portfolio evolution. I still write code regularly. I have frequently switched between technologies, becoming proficient in TypeScript, Python, NodeJS, NestJS, PostgreSQL, React, and other related ecosystems. My current target area of expertise is around Amazon Web Services, AI/ML integration and cloud-native architectures.
 
 ### What I do well
 - **Backend & fintech systems:** high-concurrency APIs, ledgers, transactional workflows
